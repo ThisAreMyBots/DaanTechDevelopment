@@ -54,7 +54,7 @@ hr {
         <p>Get a preview</p>
     </a>
 <a href="https://discord.gg/fRxKMn3">
-  <img src="http://www.volcbat.com/main/images/discord.png" alt="HTML tutorial" style="width:600px;height:150px;border:0">
+  <img src="assets/discord.png" alt="Join our discord" style="width:600px;height:150px;border:0">
 </a>
   
   </div>
